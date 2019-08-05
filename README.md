@@ -1,2 +1,2 @@
 # automation_school_2019
-Automatino school 2019 repo
+Automation school 2019 repo
