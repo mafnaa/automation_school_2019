@@ -1,7 +1,7 @@
 import java.text.SimpleDateFormat;
 import java.util.*;
 
-public class lesson2 {
+public class Lesson2 {
 	public static void main(String[] args) {
 		String name = args[0];
 		String surname = args[1];
