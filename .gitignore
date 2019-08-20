@@ -1,0 +1,15 @@
+#Idea
+*.iml
+*.ipr
+*.iws
+.idea
+
+#Maven
+target/
+
+#Selenium output
+build/
+
+#Mac specific
+.DS_Store
+
