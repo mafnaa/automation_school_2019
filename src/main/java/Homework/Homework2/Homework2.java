@@ -1,9 +1,9 @@
-package Lesson2;
+package Homework.Homework2;
 
 import java.text.SimpleDateFormat;
 import java.util.*;
 
-public class Lesson2 {
+public class Homework2 {
 	public static void main(String[] args) {
 		String name = args[0];
 		String surname = args[1];
